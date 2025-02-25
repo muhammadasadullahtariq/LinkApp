@@ -1,8 +1,8 @@
-# Link App - Your Ultimate Link Management Hub  
+# LinkApp - Your Ultimate Link Management Hub  
 
-**Welcome to the official repository for Link App!**  
+**Welcome to the official repository for LinkApp!**  
 
-Link App is your go-to tool for saving, organizing, and sharing links effortlessly across devices. Whether you're a student, professional, or anyone who wants to keep their digital resources organized, Link App provides everything you need to master your links in one convenient platform.  
+LinkApp is your go-to tool for saving, organizing, and sharing links effortlessly across devices. Whether you're a student, professional, or anyone who wants to keep their digital resources organized, LinkApp provides everything you need to master your links in one convenient platform.  
 
 ## Key Features  
 - **Save Links Instantly:** Save links from any web page or app in just a few clicks.  
@@ -12,11 +12,11 @@ Link App is your go-to tool for saving, organizing, and sharing links effortless
 - **Performance Tracking:** Get detailed analytics on your shared links.  
 - **Collaboration:** Share folders with others to work together effectively.  
 
-## Get Started with Link App  
+## Get Started with LinkApp  
 Visit us at **[linkapp.one](https://linkapp.one)** to learn more and start organizing your digital world today!  
 
 ## About This Repository  
-This repository serves as a backlink hub for Link App, aiming to spread awareness about the tool and its features. If you're interested in link management, this is the tool for you.  
+This repository serves as a backlink hub for LinkApp, aiming to spread awareness about the tool and its features. If you're interested in link management, this is the tool for you.  
 
 ## Connect With Us  
 Website: **[linkapp.one](https://linkapp.one)**  
@@ -26,10 +26,10 @@ Social Media: Follow us on our social channels to stay updated on new features a
 
 ### How You Can Help  
 - Star this repository ⭐ to show your support.  
-- Share the link to this repository with anyone who might benefit from Link App.  
+- Share the link to this repository with anyone who might benefit from LinkApp.  
 - Leave your feedback or suggestions to help us improve!  
 
 ---
 
 ### License  
-This repository is for informational purposes only and does not contain the source code for Link App.  
+This repository is for informational purposes only and does not contain the source code for LinkApp.  
