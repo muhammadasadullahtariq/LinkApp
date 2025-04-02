@@ -1,4 +1,4 @@
-# LinkApp - Your Ultimate Link Management Hub  
+# Link App - Link Managemet solution
 
 **Welcome to the official repository for LinkApp!**  
 
@@ -13,13 +13,13 @@ LinkApp is your go-to tool for saving, organizing, and sharing links effortlessl
 - **Collaboration:** Share folders with others to work together effectively.  
 
 ## Get Started with LinkApp  
-Visit us at **[linkapp.one](https://linkapp.one)** to learn more and start organizing your digital world today!  
+Visit us at **[link App](https://www.linkapp.one)** to learn more and start organizing your digital world today!  
 
 ## About This Repository  
 This repository serves as a backlink hub for LinkApp, aiming to spread awareness about the tool and its features. If you're interested in link management, this is the tool for you.  
 
 ## Connect With Us  
-Website: **[linkapp.one](https://linkapp.one)**  
+Website: **[link App](https://www.linkapp.one)**  
 Social Media: Follow us on our social channels to stay updated on new features and improvements.  
 
 ---
